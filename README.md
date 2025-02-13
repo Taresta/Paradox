@@ -1,4 +1,4 @@
-[]()
+![](assets/banner.jpg)
 # Greetings to the visitor 😇,
 
 I am a coding enthusiast who loves learning and building. My journey is long, with much to improve, but I believe in steady progress. Each day, I take a step forward, refining my skills and learning from challenges. With consistency and effort, I aim to improve as a developer, one project at a time.
